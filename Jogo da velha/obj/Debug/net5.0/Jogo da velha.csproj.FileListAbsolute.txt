@@ -1,0 +1,16 @@
+C:\Users\Estudo\source\repos\Jogo da velha\Jogo da velha\bin\Debug\net5.0\Jogo da velha.exe
+C:\Users\Estudo\source\repos\Jogo da velha\Jogo da velha\bin\Debug\net5.0\Jogo da velha.deps.json
+C:\Users\Estudo\source\repos\Jogo da velha\Jogo da velha\bin\Debug\net5.0\Jogo da velha.runtimeconfig.json
+C:\Users\Estudo\source\repos\Jogo da velha\Jogo da velha\bin\Debug\net5.0\Jogo da velha.runtimeconfig.dev.json
+C:\Users\Estudo\source\repos\Jogo da velha\Jogo da velha\bin\Debug\net5.0\Jogo da velha.dll
+C:\Users\Estudo\source\repos\Jogo da velha\Jogo da velha\bin\Debug\net5.0\Jogo da velha.pdb
+C:\Users\Estudo\source\repos\Jogo da velha\Jogo da velha\obj\Debug\net5.0\Jogo da velha.csproj.AssemblyReference.cache
+C:\Users\Estudo\source\repos\Jogo da velha\Jogo da velha\obj\Debug\net5.0\Jogo da velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudo\source\repos\Jogo da velha\Jogo da velha\obj\Debug\net5.0\Jogo da velha.AssemblyInfoInputs.cache
+C:\Users\Estudo\source\repos\Jogo da velha\Jogo da velha\obj\Debug\net5.0\Jogo da velha.AssemblyInfo.cs
+C:\Users\Estudo\source\repos\Jogo da velha\Jogo da velha\obj\Debug\net5.0\Jogo da velha.csproj.CoreCompileInputs.cache
+C:\Users\Estudo\source\repos\Jogo da velha\Jogo da velha\obj\Debug\net5.0\Jogo da velha.dll
+C:\Users\Estudo\source\repos\Jogo da velha\Jogo da velha\obj\Debug\net5.0\refint\Jogo da velha.dll
+C:\Users\Estudo\source\repos\Jogo da velha\Jogo da velha\obj\Debug\net5.0\Jogo da velha.pdb
+C:\Users\Estudo\source\repos\Jogo da velha\Jogo da velha\obj\Debug\net5.0\Jogo da velha.genruntimeconfig.cache
+C:\Users\Estudo\source\repos\Jogo da velha\Jogo da velha\obj\Debug\net5.0\ref\Jogo da velha.dll
